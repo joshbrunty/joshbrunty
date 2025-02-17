@@ -1,4 +1,4 @@
-![Brunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshbrunty&show_icons=true)
+![Brunty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshbrunty&show_icons=true&theme=transparent)
 
 <!--
 **joshbrunty/joshbrunty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
