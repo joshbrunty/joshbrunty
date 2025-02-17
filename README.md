@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshbrunty](https://github.com/joshbrunty)
 
-- 📝 I regularly write articles on [joshbrunty.github.io](joshbrunty.github.io)
+- 📝 I regularly write articles on [joshbrunty.github.io](https://joshbrunty.github.io)
 
 - 💬 Ask me about **Anything Digital Forensics**
 
