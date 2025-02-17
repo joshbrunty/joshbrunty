@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dr. Josh Brunty</h1>
-<h3 align="center">Interested in all things digital forensics</h3>
+<h1 align="left">Hi, I'm Dr. Josh Brunty</h1>
+<h3 align="left">Interested in all things digital forensics</h3>
 
 <p align="left"> <a href="https://twitter.com/joshbrunty" target="blank"><img src="https://img.shields.io/twitter/follow/joshbrunty?logo=twitter&style=for-the-badge" alt="joshbrunty" /></a> </p>
 
