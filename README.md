@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dr. Josh Brunty</h1>
-<h3 align="center">Interested in all things digital forensics</h3>
+<h1 align="left">Hi 👋, I'm Dr. Josh Brunty</h1>
+<h3 align="left">Interested in all things digital forensics</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshbrunty" alt="joshbrunty" /></a> </p>
 
