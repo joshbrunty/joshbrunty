@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [joshbrunty.github.io](https://joshbrunty.github.io)
 
-- 💬 Ask me about **Anything Digital Forensics**
+- 💬 Ask me about **Anything [Digital Forensics](https://www.wikipedia.com/digitalforensics)**
 
 - 📫 How to reach me **josh.brunty@gmail.com**
 
