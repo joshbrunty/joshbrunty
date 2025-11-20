@@ -9,19 +9,19 @@
 
 - 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux)
 
-- 🤝 I’m looking for help with [Afflux](https://github.com/marshallucyber/afflux)
+- 🤝 I’m looking for help with: [Afflux](https://github.com/marshallucyber/afflux)
 
-- 👨‍💻 All of my projects are available at [https://github.com/joshbrunty](https://github.com/joshbrunty)
+- 👨‍💻 All of my projects are available at[https://github.com/joshbrunty](https://github.com/joshbrunty)
 
 - 📝 I regularly write articles on: [joshbrunty.github.io](https://joshbrunty.github.io)
 
-- 💬 Ask me about **Anything [Digital Forensics](https://en.wikipedia.org/wiki/Digital_forensics)**
+- 💬 Ask me about: **Anything [Digital Forensics](https://en.wikipedia.org/wiki/Digital_forensics)**
 
-- 📫 How to reach me **josh.brunty@gmail.com**
+- 📫 How to reach me: **josh.brunty@gmail.com**
 
-- 📄 Know about my experiences [https://www.marshall.edu/cyber/profile/josh-brunty/](https://www.marshall.edu/cyber/profile/josh-brunty/)
+- 📄 Know about my experiences: [https://www.marshall.edu/cyber/profile/josh-brunty/](https://www.marshall.edu/cyber/profile/josh-brunty/)
 
-- ⚡ Fun fact **I have a Wikipedia entry** [https://en.wikipedia.org/wiki/Josh_Brunty]
+- ⚡ Fun fact: **I have a [Wikipedia](https://en.wikipedia.org/wiki/Josh_Brunty) entry** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
