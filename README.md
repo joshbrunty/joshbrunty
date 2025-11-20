@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/joshbrunty" target="blank"><img src="https://img.shields.io/twitter/follow/joshbrunty?logo=twitter&style=for-the-badge" alt="joshbrunty" /></a> </p>
 
-- 🔭 I’m currently working on [Afflux](https://github.com/marshallcyber/afflux) and [DFIR Regular Expressions](https://github.com/joshbrunty/DFIR-Regular-Expressions)
+- 🔭 I’m currently working on [Afflux](https://github.com/marshallucyber/afflux) and [DFIR Regular Expressions](https://github.com/joshbrunty/DFIR-Regular-Expressions)
 
 - 🌱 I’m currently learning: [Python](https://www.python.org) and [C](https://www.c-language.org/)
 
