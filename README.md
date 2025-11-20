@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Afflux](https://github.com/marshallcyber/afflux) and [DFIR Regular Expressions](https://github.com/joshbrunty/DFIR-Regular-Expressions)
 
-- 🌱 I’m currently learning **Python, C**
+- 🌱 I’m currently learning: [Python](https://www.python.org) and [C](https://www.c-language.org/)
 
 - 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshbrunty](https://github.com/joshbrunty)
 
-- 📝 I regularly write articles on [joshbrunty.github.io](https://joshbrunty.github.io)
+- 📝 I regularly write articles on: [joshbrunty.github.io](https://joshbrunty.github.io)
 
 - 💬 Ask me about **Anything [Digital Forensics](https://en.wikipedia.org/wiki/Digital_forensics)**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.marshall.edu/cyber/profile/josh-brunty/](https://www.marshall.edu/cyber/profile/josh-brunty/)
 
-- ⚡ Fun fact **I have a Wikipedia entry**
+- ⚡ Fun fact **I have a Wikipedia entry** [https://en.wikipedia.org/wiki/Josh_Brunty]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
