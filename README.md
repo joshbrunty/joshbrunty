@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with: [Afflux](https://github.com/marshallucyber/afflux)
 
-- 👨‍💻 All of my projects are available at[https://github.com/joshbrunty](https://github.com/joshbrunty)
+- 👨‍💻 All of my projects are available at: [https://github.com/joshbrunty](https://github.com/joshbrunty)
 
 - 📝 I regularly write articles on: [joshbrunty.github.io](https://joshbrunty.github.io)
 
