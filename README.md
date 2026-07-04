@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: [Python](https://www.python.org) and [C](https://www.c-language.org/)
 
-- 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux) & [CTF Training]((https://github.com/joshbrunty/CTF-training)
+- 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux) & [CTF Training](https://github.com/joshbrunty/CTF-training)
 
 - 🤝 I’m looking for help with: [Afflux](https://github.com/marshallucyber/afflux)
 
