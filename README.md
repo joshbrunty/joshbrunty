@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://x.com/joshbrunty" target="blank"><img src="https://img.shields.io/twitter/follow/joshbrunty?logo=twitter&style=for-the-badge" alt="joshbrunty" /></a> </p>
 
-- 🔭 I’m currently working on [Afflux](https://github.com/marshallucyber/afflux), [DFIR Regular Expressions](https://github.com/joshbrunty/DFIR-Regular-Expressions), & [Afflux](https://github.com/marshallucyber/afflux)
+- 🔭 I’m currently working on [Afflux](https://github.com/marshallucyber/afflux), [DFIR Regular Expressions](https://github.com/joshbrunty/DFIR-Regular-Expressions), & [CTF ](https://github.com/marshallucyber/afflux)
 
 - 🌱 I’m currently learning: [Python](https://www.python.org) and [C](https://www.c-language.org/)
 
-- 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux) & [CTF Training]([Afflux](https://github.com/marshallucyber/afflux))
+- 👯 I’m looking to collaborate on [Afflux](https://github.com/marshallucyber/afflux) & [CTF Training]([https://github.com/marshallucyber/afflux](https://github.com/joshbrunty/CTF-training)
 
 - 🤝 I’m looking for help with: [Afflux](https://github.com/marshallucyber/afflux)
 
